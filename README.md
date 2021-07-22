@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-     <td style="text-align:center;">Categories Screen</td>
+     <td>Categories Screen</td>
      <td>Category Meals Screen</td>
      <td>Favorite Recipes</td>
   </tr>
